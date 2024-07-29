@@ -1,4 +1,9 @@
 # simple_User_Regestration
+Using Node.js, express, etc.
+
+
+------------------------------------------
+Commands that need to be used in terminal:
 mkdir user-auth
 cd user-auth
 npm init -y
